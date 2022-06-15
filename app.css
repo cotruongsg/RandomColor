@@ -11,6 +11,11 @@ h1 {
   font-family: Montserrat;
 }
 
+h2 {
+  font-size: 15rem;
+  font-family: Montserrat;
+}
+
 .letter {
   transition: color 1000ms;
 }
